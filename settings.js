@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "2347046351001"
 
 
 
@@ -17,13 +17,13 @@ global.egg = "15"
 global.loc = "1"
 global.anticall = false
 global.autoReadChat = false
-global.alwaysonline = true
-global.autoswview = false
-global.public = true
+global.alwaysonline = false
+global.autoswview = true
+global.public = false
 global.autoreact = false
-global.antidelete = false
+global.antidelete = true
 global.autotyping = false
-global.autoBio = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
